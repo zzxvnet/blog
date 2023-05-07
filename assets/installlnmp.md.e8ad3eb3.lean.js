@@ -1,0 +1,1 @@
+import{_ as a,o as s,c as n,O as t}from"./chunks/framework.ef0174de.js";const u=JSON.parse('{"title":"安装步骤:","description":"","frontmatter":{},"headers":[],"relativePath":"installlnmp.md","filePath":"installlnmp.md"}'),e={name:"installlnmp.md"},l=t("",15),p=[l];function o(c,i,r,m,d,h){return s(),n("div",null,p)}const _=a(e,[["render",o]]);export{u as __pageData,_ as default};
