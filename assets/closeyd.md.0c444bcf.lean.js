@@ -1,1 +1,0 @@
-import{_ as s,o as a,c as n,O as l}from"./chunks/framework.ef0174de.js";const g=JSON.parse('{"title":"阿里云ECS关闭删除安骑士","description":"","frontmatter":{},"headers":[],"relativePath":"closeyd.md","filePath":"closeyd.md"}'),p={name:"closeyd.md"},e=l("",35),o=[e];function t(c,i,r,C,u,A){return a(),n("div",null,o)}const y=s(p,[["render",t]]);export{g as __pageData,y as default};
